@@ -1,0 +1,2806 @@
+training@training-OptiPlex-7010:~$ sudo minicom
+[sudo] password for training: 
+
+
+Welcome to minicom 2.7.1
+
+OPTIONS: I18n 
+Compiled on Dec 23 2019, 02:06:26.
+Port /dev/ttyUSB0, 09:40:57
+
+Press CTRL-A Z for help on special keys
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                    CTRL-A Z for help | 115200 8N1 | NOR | Minicom 2.7.1 | VT102 | Offline | ttyUSB0                                                         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+
+
+
+
+
+
+                                           
+                                           
+                                           
+                                           
+                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CTRL-A Z for help | 115200 8N1 | NOR | Minicom 2.7.1 | VT102 | Of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CTRL-A Z for help | 115200 8N1 | NOR | Minicom 2.7.1 | VT102 | Offline | yUSB0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CTRL-A Z for help | 115200 8N1 | NOR | Minicom 2.7.1 | VT102 | Offline | ttyUSB0                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CTRL-A Z for help | 115200 8N1 | NOR | Minicom 2.7.1 | VT102 | Offline | ttyUSB0                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CCC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CTRL-A Z for help | 115200 8N1 | NOR | Minicom 2.7.1 | VT102 | Offline | ttyUSB0                                                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CCCC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CCCCCCCCCCCCCCCCCCCCCCCCCCC
+U-Boot SPL 2017.03-00270-g5cf618e (Mar 28 2017 - 17:14:21)                                               
+Trying to boot from UART                                                                                 
+CC                                                                                                       
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CCCCCCC
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+         +-----------[xmodem upload - Press CTRL-C to quit]------------+                
+         |Sending u-boot.img, 2844 blocks: Give your local XMODEM recei|                
+         |ve command now.                                              |                                                                               
+                                                                                                                                                       
+                                                                                                                                                       
+                                                                                                                                                       
+                                                                                                                                                       
+         |                                                             |                
+         +-------------------------------------------------------------+                
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xyzModem - Cksum mode, 2846(SOH)/0(STX)/0(CAN) packets, 13 retries
+Loaded 364100 bytes
+
+
+U-Boot 2016.11-rc1 (Mar 29 2017 - 09:34:17 +0530)
+
+I2C:   ready
+DRAM:  512 MiB
+MMC:   OMAP SD/MMC: 0, OMAP SD/MMC: 1
+*** Warning - bad CRC, using default environment
+
+Net:   <ethaddr> not set. Validating first E-fuse MAC
+cpsw, usb_ether
+Press SPACE to abort autoboot in 2 seconds
+Card did not respond to voltage select!
+Card did not respond to voltage select!
+Card did not respond to voltage select!
+Card did not respond to voltage select!
+Card did not respond to voltage select!
+switch to partitions #0, OK
+mmc1(part 0) is current device
+Scanning mmc 1:1...
+switch to partitions #0, OK
+mmc1(part 0) is current device
+SD/MMC found on device 1
+switch to partitions #0, OK
+mmc1(part 0) is current device
+SD/MMC found on device 1
+** File not found boot.scr **
+** Unrecognized filesystem type **
+** Invalid partition 2 **
+## Error: "bootcmd_nand0" not defined
+starting USB...
+USB0:   Port not available.
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOUT !
+BOOTP broadcast 1
+BOOTP broadcast 2
+BOOTP broadcast 3
+BOOTP broadcast 4
+BOOTP broadcast 5
+BOOTP broadcast 6
+BOOTP broadcast 7
+BOOTP broadcast 8
+BOOTP broadcast 9
+BOOTP broadcast 10
+BOOTP broadcast 11
+BOOTP broadcast 12
+BOOTP broadcast 13
+BOOTP broadcast 14
+BOOTP broadcast 15
+BOOTP broadcast 16
+BOOTP broadcast 17
+BOOTP broadcast 18
+BOOTP broadcast 19
+BOOTP broadcast 20
+BOOTP broadcast 21
+BOOTP broadcast 22
+BOOTP broadcast 23
+BOOTP broadcast 24
+BOOTP broadcast 25
+BOOTP broadcast 26
+BOOTP broadcast 27
+BOOTP broadcast 28
+BOOTP broadcast 29
+
+Retry time exceeded; starting again
+missing environment variable: pxeuuid
+Retrieving file: pxelinux.cfg/01-0c-b2-b7-cc-f4-c5
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOUT !
+*** ERROR: `serverip' not set
+Retrieving file: pxelinux.cfg/00000000
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOUT !
+*** ERROR: `serverip' not set
+Retrieving file: pxelinux.cfg/0000000
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOUT !
+*** ERROR: `serverip' not set
+Retrieving file: pxelinux.cfg/000000
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOUT !
+*** ERROR: `serverip' not set
+Retrieving file: pxelinux.cfg/00000
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOUT !
+*** ERROR: `serverip' not set
+Retrieving file: pxelinux.cfg/0000
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOUT !
+*** ERROR: `serverip' not set
+Retrieving file: pxelinux.cfg/000
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOUT !
+*** ERROR: `serverip' not set
+Retrieving file: pxelinux.cfg/00
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOUT !
+*** ERROR: `serverip' not set
+Retrieving file: pxelinux.cfg/0
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOUT !
+*** ERROR: `serverip' not set
+Retrieving file: pxelinux.cfg/default-arm-am33xx
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOUT !
+*** ERROR: `serverip' not set
+Retrieving file: pxelinux.cfg/default-arm                                     
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOUT !          
+*** ERROR: `serverip' not set                                                 
+Retrieving file: pxelinux.cfg/default                                         
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOUT !          
+*** ERROR: `serverip' not set                                                 
+Config file not found                                                         
+starting USB...                                                               
+USB0:   Port not available.                                                   
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOUT !          
+BOOTP broadcast 1                                                             
+BOOTP broadcast 2                                                             
+BOOTP broadcast 3                                                             
+BOOTP broadcast 4                                                             
+BOOTP broadcast 5                                                             
+BOOTP broadcast 6                                                             
+BOOTP broadcast 7                                                             
+BOOTP broadcast 8                                                             
+BOOTP broadcast 9                                                             
+BOOTP broadcast 10                                                            
+BOOTP broadcast 11                                                            
+BOOTP broadcast 12                                                            
+BOOTP broadcast 13                                                            
+BOOTP broadcast 14                                                            
+BOOTP broadcast 15                                                            
+BOOTP broadcast 16                                                            
+BOOTP broadcast 17                                                            
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC                               ------+
+U-Boot SPL 2017.03-00270-g5cf618e (Mar 28 2017 - 17:14:21)
+Trying to boot from UART                                                      
+CxyzModem - CRC mode, 2846(SOH)/0(STX)/0(CAN) packets, 4 retries
+Loaded 364100 bytes
+
+
+U-Boot 2016.11-rc1 (Mar 29 2017 - 09:34:17 +0530)
+
+I2C:   ready
+DRAM:  512 MiB
+MMC:   OMAP SD/MMC: 0, OMAP SD/MMC: 1
+*** Warning - bad CRC, using default environment
+
+Net:   <ethaddr> not set. Validating first E-fuse MAC
+cpsw, usb_ether
+Press SPACE to abort autoboot in 2 seconds
+Card did not respond to voltage select!
+Card did not respond to voltage select!                                       
+Card did not respond to voltage select!                                       
+Card did not respond to voltage select!                                       
+Card did not respond to voltage select!                                       
+switch to partitions #0, OK                                                   
+mmc1(part 0) is current device                                                
+Scanning mmc 1:1...                                                           
+switch to partitions #0, OK                                                   
+mmc1(part 0) is current device                                                
+SD/MMC found on device 1                                                      
+switch to partitions #0, OK                                                   
+mmc1(part 0) is current device                                                
+SD/MMC found on device 1                                                      
+** File not found boot.scr **                                                 
+** Unrecognized filesystem type **                                            
+** Invalid partition 2 **                                                     
+## Error: "bootcmd_nand0" not defined                                         
+starting USB...                                                               
+USB0:   Port not available.                                                   
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOUT !          
+BOOTP broadcast 1                                                             
+BOOTP broadcast 2                                                             
+BOOTP broadcast 3                                                             
+BOOTP broadcast 4                                                             
+BOOTP broadcast 5                                                             
+BOOTP broadcast 6                                                             
+BOOTP broadcast 7                                                             
+CCCCCCCCCC                                                                  -+
+U-Boot SPL 2017.03-00270-g5cf618e (Mar 28 2017 - 17:14:21)
+Trying to boot from UART                                                      
+CxyzModem - CRC mode, 2846(SOH)/0(STX)/0(CAN) packets, 4 retries
+Loaded 364100 bytes
+
+
+U-Boot 2016.11-rc1 (Mar 29 2017 - 09:34:17 +0530)
+
+I2C:   ready
+DRAM:  512 MiB
+MMC:   OMAP SD/MMC: 0, OMAP SD/MMC: 1
+*** Warning - bad CRC, using default environment
+
+Net:   <ethaddr> not set. Validating first E-fuse MAC
+cpsw, usb_ether
+Press SPACE to abort autoboot in 2 seconds
+=>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+loadx 0x82000000
+## Ready for binary (xmodem) download to 0x82000000 at 115200 bps.
+C- CRC mode, 33677(SOH)/0(STX)/0(CAN) packets, 1 retries          
+CACHE: Misaligned operation at range [82000000, 8241c660]         
+## Total Size      = 0x0041c660 = 4310624 Bytes                   
+=> loadx 0x88000000                                               
+## Ready for binary (xmodem) download to 0x88000000 at 115200 bps.
+C- CRC mode, 191(SOH)/0(STX)/0(CAN) packets, 1 retries            
+CACHE: Misaligned operation at range [88000000, 88005f6c]         
+## Total Size      = 0x00005f6c = 24428 Bytes                     
+=> loadx 0x88080000                                               
+## Ready for binary (xmodem) download to 0x88080000 at 115200 bps.
+Cm - CRC mode, 24215(SOH)/0(STX)/0(CAN) packets, 1 retries        
+CACHE: Misaligned operation at range [88080000, 88374b36]         
+## Total Size      = 0x002f4b36 = 3099446 Bytes                   
+=> setenv bootargs console=ttyO0,115200 root=/dev/ram0 rw initrd=0
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+
+                                                                  
+
+CTRL-A Z for help | 115200 8N1 | NOR | Minicom 2.7.1 | VT102 | Of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CTRL-A Z for help | 115200 8N1 | NOR | Minicom 2.7.1 | VT102 | Offline | yUSB0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=> setenv bootargs console=ttyO0,115200 root=/dev/ram0 rw initrd=0x88080000
+=> printenv bootargs
+bootargs=console=ttyO0,115200 root=/dev/ram0 rw initrd=0x88080000
+=> bootm 0x82000000 0x88080000 0x88000000
+## Booting kernel from Legacy Image at 82000000 ...
+   Image Name:   Angstrom/3.8.13/beaglebone
+   Created:      2013-07-30   9:56:26 UTC
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    4310560 Bytes = 4.1 MiB
+   Load Address: 80008000
+   Entry Point:  80008000
+   Verifying Checksum ... OK
+## Loading init Ramdisk from Legacy Image at 88080000 ...
+   Image Name:   ramdisk image
+   Created:      2017-03-29  15:46:12 UTC
+   Image Type:   ARM Linux RAMDisk Image (gzip compressed)
+   Data Size:    3099382 Bytes = 3 MiB
+   Load Address: 00000000
+   Entry Point:  00000000
+   Verifying Checksum ... OK
+## Flattened Device Tree blob at 88000000
+   Booting using the fdt blob at 0x88000000
+   Loading Kernel Image ... OK
+   Loading Ramdisk to 8fd0b000, end 8ffffaf6 ... OK
+   Loading Device Tree to 8fd02000, end 8fd0af6b ... OK
+
+Starting kernel ...
+
+Uncompressing Linux... done, booting the kernel.
+[    0.000000] Booting Linux on physical CPU 0x0
+[    0.000000] Initializing cgroup subsys cpu
+[    0.000000] Linux version 3.8.13 (koen@rrMBP) (gcc version 4.7.3 20130205 (prerelease) (Linaro 3
+[    0.000000] CPU: ARMv7 Processor [413fc082] revision 2 (ARMv7), cr=50c5387d
+[    0.000000] CPU: PIPT / VIPT nonaliasing data cache, VIPT aliasing instruction cache
+[    0.000000] Machine: Generic AM33XX (Flattened Device Tree), model: TI AM335x BeagleBone
+[    0.000000] Memory policy: ECC disabled, Data cache writeback
+[    0.000000] AM335X ES1.0 (neon )
+[    0.000000] PERCPU: Embedded 8 pages/cpu @c0b07000 s9408 r8192 d15168 u32768
+[    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 129792
+[    0.000000] Kernel command line: console=ttyO0,115200 root=/dev/ram0 rw initrd=0x88080000
+[    0.000000] PID hash table entries: 2048 (order: 1, 8192 bytes)
+[    0.000000] Dentry cache hash table entries: 65536 (order: 6, 262144 bytes)
+[    0.000000] Inode-cache hash table entries: 32768 (order: 5, 131072 bytes)
+[    0.000000] __ex_table already sorted, skipping sort
+[    0.000000] allocated 1048576 bytes of page_cgroup
+[    0.000000] please try 'cgroup_disable=memory' option if you don't want memory cgroups
+[    0.000000] Memory: 511MB = 511MB total
+[    0.000000] Memory: 507456k/507456k available, 16832k reserved, 0K highmem
+[    0.000000] Virtual kernel memory layout:
+[    0.000000]     vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+[    0.000000]     fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+[    0.000000]     vmalloc : 0xe0800000 - 0xff000000   ( 488 MB)
+[    0.000000]     lowmem  : 0xc0000000 - 0xe0000000   ( 512 MB)
+[    0.000000]     pkmap   : 0xbfe00000 - 0xc0000000   (   2 MB)
+[    0.000000]     modules : 0xbf800000 - 0xbfe00000   (   6 MB)
+[    0.000000]       .text : 0xc0008000 - 0xc05e9e60   (6024 kB)
+[    0.000000]       .init : 0xc05ea000 - 0xc062b4c0   ( 262 kB)
+[    0.000000]       .data : 0xc062c000 - 0xc069e460   ( 458 kB)
+[    0.000000]        .bss : 0xc069e460 - 0xc06f7efc   ( 359 kB)
+[    0.000000] Hierarchical RCU implementation.
+[    0.000000]  RCU restricting CPUs from NR_CPUS=4 to nr_cpu_ids=1.
+[    0.000000] NR_IRQS:16 nr_irqs:16 16
+[    0.000000] IRQ: Found an INTC at 0xfa200000 (revision 5.0) with 128 interrupts
+[    0.000000] Total of 128 interrupts on 1 active controller
+[    0.000000] OMAP clockevent source: GPTIMER1 at 24000000 Hz
+[    0.000000] sched_clock: 32 bits at 24MHz, resolution 41ns, wraps every 178956ms
+[    0.000000] OMAP clocksource: GPTIMER2 at 24000000 Hz
+[    0.000000] Console: colour dummy device 80x30
+[    0.000227] Calibrating delay loop... 993.47 BogoMIPS (lpj=969728)
+[    0.029170] pid_max: default: 32768 minimum: 301
+[    0.029311] Security Framework initialized
+[    0.029369] Mount-cache hash table entries: 512
+[    0.035257] Initializing cgroup subsys cpuacct
+[    0.035280] Initializing cgroup subsys memory
+[    0.035322] Initializing cgroup subsys blkio
+[    0.035413] CPU: Testing write buffer coherency: ok
+[    0.035794] CPU0: thread -1, cpu 0, socket -1, mpidr 0
+[    0.035848] Setting up static identity map for 0x803787c0 - 0x8037880c
+[    0.036669] Brought up 1 CPUs
+[    0.036684] SMP: Total of 1 processors activated (993.47 BogoMIPS).
+[    0.037518] devtmpfs: initialized
+[    0.046208] omap_hwmod: wd_timer2: _wait_target_disable failed
+[    0.097955] pinctrl core: initialized pinctrl subsystem
+[    0.098090] rstctl core: initialized rstctl subsystem
+[    0.098397] regulator-dummy: no parameters
+[    0.098714] NET: Registered protocol family 16
+[    0.099200] DMA: preallocated 256 KiB pool for atomic coherent allocations
+[    0.104767] pinctrl-single 44e10800.pinmux: 142 pins at pa f9e10800 size 568
+[    0.105222] platform 49000000.edma: alias fck already exists
+[    0.105240] platform 49000000.edma: alias fck already exists
+[    0.105256] platform 49000000.edma: alias fck already exists
+[    0.106083] OMAP GPIO hardware version 0.1
+[    0.108721] gpio-rctrl rstctl.3: loaded OK
+[    0.112033] hw-breakpoint: debug architecture 0x4 unsupported.
+[    0.113351] cpsw.0: No hwaddr in dt. Using 0c:b2:b7:cc:f4:c5 from efuse
+[    0.113371] cpsw.1: No hwaddr in dt. Using 0c:b2:b7:cc:f4:c7 from efuse
+[    0.121641] bio: create slab <bio-0> at 0
+[    0.128522] edma-dma-engine edma-dma-engine.0: TI EDMA DMA engine driver
+[    0.128839] vmmcsd_fixed: 3300 mV 
+[    0.130518] SCSI subsystem initialized
+[    0.130817] usbcore: registered new interface driver usbfs
+[    0.130884] usbcore: registered new interface driver hub
+[    0.131076] usbcore: registered new device driver usb
+[    0.132334] omap_i2c 44e0b000.i2c: bus 0 rev0.11 at 400 kHz
+[    0.133341] input: tps65217_pwr_but as /devices/ocp.2/44e0b000.i2c/i2c-0/0-0024/input/input0
+[    0.134943] DCDC1: at 1500 mV 
+[    0.135799] vdd_mpu: 925 <--> 1325 mV at 1325 mV 
+[    0.136640] vdd_core: 925 <--> 1150 mV at 1125 mV 
+[    0.137472] LDO1: at 1800 mV 
+[    0.138279] LDO2: at 3300 mV 
+[    0.139839] LDO3: 1800 mV 
+[    0.140679] LDO4: at 3300 mV 
+[    0.141413] tps65217 0-0024: TPS65217 ID 0xe version 1.2
+[    0.141861] omap_i2c 44e0b000.i2c: unable to select pin group
+[    0.142338] omap_i2c 4819c000.i2c: bus 1 rev0.11 at 100 kHz
+[    0.143758] omap_i2c 4819c000.i2c: unable to select pin group
+[    0.143907] media: Linux media interface: v0.10
+[    0.143968] Linux video capture interface: v2.00
+[    0.144067] pps_core: LinuxPPS API ver. 1 registered
+[    0.144077] pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linu>
+[    0.144557] Advanced Linux Sound Architecture Driver Initialized.
+[    0.145307] Switching to clocksource gp_timer
+[    0.155813] NET: Registered protocol family 2
+[    0.156438] TCP established hash table entries: 4096 (order: 3, 32768 bytes)
+[    0.156518] TCP bind hash table entries: 4096 (order: 4, 81920 bytes)
+[    0.156609] TCP: Hash tables configured (established 4096 bind 4096)
+[    0.156669] TCP: reno registered
+[    0.156685] UDP hash table entries: 256 (order: 1, 12288 bytes)
+[    0.156712] UDP-Lite hash table entries: 256 (order: 1, 12288 bytes)
+[    0.156961] NET: Registered protocol family 1
+[    0.157402] RPC: Registered named UNIX socket transport module.
+[    0.157416] RPC: Registered udp transport module.
+[    0.157423] RPC: Registered tcp transport module.
+[    0.157431] RPC: Registered tcp NFSv4.1 backchannel transport module.
+[    0.157668] Trying to unpack rootfs image as initramfs...
+[    0.417174] Freeing initrd memory: 3024K
+[    0.417643] CPU PMU: probing PMU on CPU 0
+[    0.417667] hw perfevents: enabled with ARMv7 Cortex-A8 PMU driver, 5 counters available
+[    0.418020] omap2_mbox_probe: platform not supported
+[    0.420552] VFS: Disk quotas dquot_6.5.2
+[    0.420688] Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+[    0.421495] NFS: Registering the id_resolver key type
+[    0.421561] Key type id_resolver registered
+[    0.421571] Key type id_legacy registered
+[    0.421612] jffs2: version 2.2. (NAND) (SUMMARY)  �© 2001-2006 Red Hat, Inc.
+[    0.421874] msgmni has been set to 997
+[    0.423615] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 249)
+[    0.423633] io scheduler noop registered
+[    0.423643] io scheduler deadline registered
+[    0.423666] io scheduler cfq registered (default)
+[    0.424649] tps65217-bl tps65217-bl: no platform data provided
+[    0.424778] tps65217-bl: probe of tps65217-bl failed with error -22
+[    0.425354] Serial: 8250/16550 driver, 4 ports, IRQ sharing enabled
+[    0.426811] omap_uart 44e09000.serial: did not get pins for uart0 error: -19
+[    0.427069] 44e09000.serial: ttyO0 at MMIO 0x44e09000 (irq = 88) is a OMAP UART0
+[    1.145823] console [ttyO0] enabled
+[    1.150185] [drm] Initialized drm 1.1.0 20060810
+[    1.162840] brd: module loaded
+[    1.170067] loop: module loaded
+[    1.173455] at24 0-0050: 32768 byte 24c256 EEPROM, writable, 1 bytes/write
+[    1.180687] at24 1-0054: 32768 byte 24c256 EEPROM, writable, 1 bytes/write
+[    1.187915] at24 1-0055: 32768 byte 24c256 EEPROM, writable, 1 bytes/write
+[    1.195138] at24 1-0056: 32768 byte 24c256 EEPROM, writable, 1 bytes/write
+[    1.202362] at24 1-0057: 32768 byte 24c256 EEPROM, writable, 1 bytes/write
+[    1.216221] bone-capemgr bone_capemgr.8: Baseboard: 'A335BNLT,00C0,4819BBBK1223'
+[    1.223970] bone-capemgr bone_capemgr.8: compatible-baseboard=ti,beaglebone-black
+[    1.262580] bone-capemgr bone_capemgr.8: slot #0: No cape found
+[    1.299685] bone-capemgr bone_capemgr.8: slot #1: No cape found
+[    1.336793] bone-capemgr bone_capemgr.8: slot #2: No cape found
+[    1.373902] bone-capemgr bone_capemgr.8: slot #3: No cape found
+[    1.380123] bone-capemgr bone_capemgr.8: slot #4: specific override
+[    1.386694] bone-capemgr bone_capemgr.8: bone: Using override eeprom data at slot 4
+[    1.394701] bone-capemgr bone_capemgr.8: slot #4: 'Bone-LT-eMMC-2G,00A0,Texas Instrument,BB-BON'
+[    1.404774] bone-capemgr bone_capemgr.8: slot #5: specific override
+[    1.411336] bone-capemgr bone_capemgr.8: bone: Using override eeprom data at slot 5
+[    1.419349] bone-capemgr bone_capemgr.8: slot #5: 'Bone-Black-HDMI,00A0,Texas Instrument,BB-BON'
+[    1.429318] bone-capemgr bone_capemgr.8: slot #6: specific override
+[    1.435888] bone-capemgr bone_capemgr.8: bone: Using override eeprom data at slot 6
+[    1.443901] bone-capemgr bone_capemgr.8: slot #6: 'Bone-Black-HDMIN,00A0,Texas Instrument,BB-BO'
+[    1.454383] bone-capemgr bone_capemgr.8: initialized OK.
+[    1.459986] bone-capemgr bone_capemgr.8: slot #4: Requesting firmware 'cape-bone-2g-emmc1.dtbo''
+[    1.473532] bone-capemgr bone_capemgr.8: slot #5: Requesting firmware 'cape-boneblack-hdmi-00A0'
+[    1.488777] OneNAND driver initializing
+[    1.493723] usbcore: registered new interface driver asix
+[    1.499402] bone-capemgr bone_capemgr.8: slot #4: dtbo 'cape-bone-2g-emmc1.dtbo' loaded; convere
+[    1.510065] bone-capemgr bone_capemgr.8: slot #5: dtbo 'cape-boneblack-hdmi-00A0.dtbo' loaded; e
+[    1.521345] usbcore: registered new interface driver cdc_ether
+[    1.527515] usbcore: registered new interface driver smsc95xx
+[    1.533714] bone-capemgr bone_capemgr.8: slot #4: #2 overlays
+[    1.540285] bone-capemgr bone_capemgr.8: slot #5: #4 overlays
+[    1.546368] usbcore: registered new interface driver net1080
+[    1.552872] bone-capemgr bone_capemgr.8: slot #4: Applied #2 overlays.
+[    1.561019] platform 4830e000.fb: alias fck already exists
+[    1.566882] usbcore: registered new interface driver cdc_subset
+[    1.574146] bone-capemgr bone_capemgr.8: slot #5: Applied #4 overlays.
+[    1.581089] bone-capemgr bone_capemgr.8: slot #6: Requesting firmware 'cape-boneblack-hdmin-00A'
+[    1.595431] usbcore: registered new interface driver zaurus
+[    1.601471] usbcore: registered new interface driver cdc_ncm
+[    1.607445] bone-capemgr bone_capemgr.8: slot #6: dtbo 'cape-boneblack-hdmin-00A0.dtbo' loaded;e
+[    1.619316] usbcore: registered new interface driver cdc_acm
+[    1.625279] cdc_acm: USB Abstract Control Model driver for USB modems and ISDN adapters
+[    1.633661] Initializing USB Mass Storage driver...
+[    1.638998] bone-capemgr bone_capemgr.8: slot #6: BB-BONELT-HDMIN conflict P8.45 (#5:BB-BONELT-)
+[    1.648560] bone-capemgr bone_capemgr.8: slot #6: Failed verification
+[    1.655310] bone-capemgr bone_capemgr.8: loader: retrying slot-6 BB-BONELT-HDMIN:00A0 (prio 2)
+[    1.664411] usbcore: registered new interface driver usb-storage
+[    1.670711] USB Mass Storage support registered.
+[    1.675571] bone-capemgr bone_capemgr.8: loader: failed to load slot-6 BB-BONELT-HDMIN:00A0 (pr)
+[    1.685249] musb-hdrc: version 6.0, ?dma?, otg (peripheral+host)
+[    1.691919] musb-hdrc musb-hdrc.0.auto: pdev->id = 0
+[    1.697152] musb-hdrc musb-hdrc.0.auto: drivers/usb/musb/musb_dsps.c:468 dsps_musb_init: OK
+[    1.706080] musb-hdrc musb-hdrc.0.auto: *** mode=3
+[    1.711113] musb-hdrc musb-hdrc.0.auto: *** power=250
+[    1.716858] musb-hdrc musb-hdrc.1.auto: pdev->id = 1
+[    1.722088] musb-hdrc musb-hdrc.1.auto: drivers/usb/musb/musb_dsps.c:468 dsps_musb_init: OK
+[    1.730963] musb-hdrc musb-hdrc.1.auto: *** mode=1
+[    1.735991] musb-hdrc musb-hdrc.1.auto: *** power=250
+[    1.741286] musb-hdrc musb-hdrc.1.auto: MUSB HDRC host driver
+[    1.747534] musb-hdrc musb-hdrc.1.auto: new USB bus registered, assigned bus number 1
+[    1.755867] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+[    1.762980] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    1.770527] usb usb1: Product: MUSB HDRC host driver
+[    1.775731] usb usb1: Manufacturer: Linux 3.8.13 musb-hcd
+[    1.781390] usb usb1: SerialNumber: musb-hdrc.1.auto
+[    1.787255] hub 1-0:1.0: USB hub found
+[    1.791240] hub 1-0:1.0: 1 port detected
+[    1.796173] mousedev: PS/2 mouse device common for all mice
+[    1.803551] omap_rtc 44e3e000.rtc: rtc core: registered 44e3e000.rtc as rtc0
+[    1.811208] i2c /dev entries driver
+[    1.815898] pps_ldisc: PPS line discipline registered
+[    1.821293] Driver for 1-wire Dallas network protocol.
+[    1.827867] omap_wdt: OMAP Watchdog Timer Rev 0x01: initial timeout 60 sec
+[    1.835291] cpuidle: using governor ladder
+[    1.839586] cpuidle: using governor menu
+[    1.843999] omap_hsmmc mmc.4: of_parse_phandle_with_args of 'reset' failed
+[    1.851205] omap_hsmmc mmc.4: Failed to get rstctl; not using any
+[    1.857872] edma-dma-engine edma-dma-engine.0: allocated channel for 0:25
+[    1.865031] edma-dma-engine edma-dma-engine.0: allocated channel for 0:24
+[    1.872276] mmc.4 supply vmmc_aux not found, using dummy regulator
+[    1.879079] omap_hsmmc mmc.4: pins are not configured from the driver
+[    1.913199] gpio-rctrl rstctl.3: gpio_rctrl_request eMMC_RSTn
+[    1.919308] omap_hsmmc mmc.10: Got rstctl (gpio:#0 name eMMC_RSTn) label:eMMC_RSTn
+[    1.927238] gpio-rctrl rstctl.3: gpio_rctrl_deassert eMMC_RSTn
+[    1.933563] edma-dma-engine edma-dma-engine.0: allocated channel for 0:3
+[    1.940634] edma-dma-engine edma-dma-engine.0: allocated channel for 0:2
+[    1.947959] mmc.10 supply vmmc_aux not found, using dummy regulator
+[    1.954599] omap_hsmmc mmc.10: pins are not configured from the driver
+[    1.987462] pinctrl-single 44e10800.pinmux: pin 44e10854 already requested by 44e10800.pinmux; 7
+[    1.999160] pinctrl-single 44e10800.pinmux: pin-21 (gpio-leds.7) status -22
+[    2.006480] pinctrl-single 44e10800.pinmux: could not request pin 21 on device pinctrl-single
+[    2.015606] leds-gpio gpio-leds.7: pins are not configured from the driver
+[    2.023733] ledtrig-cpu: registered to indicate activity on CPUs
+[    2.030359] edma-dma-engine edma-dma-engine.0: allocated channel for 0:36
+[    2.037546] omap-sham 53100000.sham: hw accel on OMAP rev 4.3
+[    2.044866] omap-aes 53500000.aes: OMAP AES hw accel rev: 3.2
+[    2.051086] edma-dma-engine edma-dma-engine.0: allocated channel for 0:5
+[    2.058188] edma-dma-engine edma-dma-engine.0: allocated channel for 0:6
+[    2.065999] usbcore: registered new interface driver usbhid
+[    2.071878] usbhid: USB HID core driver
+[    2.079086] davinci_evm sound.13:  nxp-hdmi-hifi <-> 48038000.mcasp mapping ok
+[    2.088929] TCP: cubic registered
+[    2.092442] Initializing XFRM netlink socket
+[    2.096962] NET: Registered protocol family 17
+[    2.101696] NET: Registered protocol family 15
+[    2.106457] Key type dns_resolver registered
+[    2.111073] VFP support v0.3: implementor 41 architecture 3 part 30 variant c rev 3
+[    2.119145] ThumbEE CPU extension supported.
+[    2.123639] Registering SWP/SWPB emulation handler
+[    2.129292] registered taskstats version 1
+[    2.134588] pinctrl-single 44e10800.pinmux: pin 44e109b0 already requested by mmc.10; cannot cl2
+[    2.145095] pinctrl-single 44e10800.pinmux: pin-108 (hdmi.12) status -22
+[    2.152110] pinctrl-single 44e10800.pinmux: could not request pin 108 on device pinctrl-single
+[    2.161146] slave hdmi.12: Failed to select default state
+[    2.166912] slave: probe of hdmi.12 failed with error -22
+[    2.173644] tilcdc 4830e000.fb: No power control GPIO
+[    2.179123] tilcdc 4830e000.fb: no encoders/connectors found
+[    2.185069] tilcdc 4830e000.fb: failed to initialize mode setting
+[    2.192228] mmc1: unrecognised EXT_CSD revision 8
+[    2.197189] mmc1: error -22 whilst initialising MMC card
+[    2.250869] davinci_mdio 4a101000.mdio: davinci mdio revision 1.6
+[    2.257259] davinci_mdio 4a101000.mdio: detected phy mask fffffffe
+[    2.268386] libphy: 4a101000.mdio: probed
+[    2.272670] davinci_mdio 4a101000.mdio: phy[0]: device 4a101000.mdio:00, driver SMSC LAN8710/LA0
+[    2.282430] Detected MACID = 0c:b2:b7:cc:f4:c5
+[    2.287060] cpsw 4a100000.ethernet: NAPI disabled
+[    2.293205] omap_rtc 44e3e000.rtc: setting system clock to 2000-01-01 00:00:00 UTC (946684800)
+[    2.307094] ALSA device list:
+[    2.310263]   #0: TI BeagleBone Black
+[    2.314769] Freeing init memory: 260K
+INIT: version 2.88 booting
+Starting udev
+[    2.483014] udevd[105]: starting version 182
+bootlogd: cannot allocate pseudo tty: No such file or directory
+Populating dev cache
+Fri Feb 26 20:33:41 UTC 2016
+INIT: Entering runlevel: 5
+Configuring network interfaces... [    5.097844] net eth0: initializing cpsw version 1.12 (0)
+[    5.105606] net eth0: phy found : id is : 0x7c0f1
+[    5.110596] libphy: PHY 4a101000.mdio:01 not found
+[    5.115616] net eth0: phy 4a101000.mdio:01 not found on slave 1
+udhcpc (v1.23.1) started
+Sending discover...
+Sending discover...
+Sending discover...
+No lease, forking to background
+ifconfig: SIOCGIFFLAGS: No such device
+done.
+Starting syslogd/klogd: done
+****************************************************
+****************************************************
+
+Sitara Flash Fetcher Script v2.1 - 03/11/2016       
+
+This version is aligned with Processor SDK Linux    
+2.0.0 based on the Linux 4.1 kernel.                
+
+Server IP not found, setting to default
+Getting flasher.sh from server: 192.168.2.1
+tftp: sendto: Network is unreachable
+Unable to fetch flasher script! Exiting...
+
+ _____                    _____           _         _   
+|  _  |___ ___ ___ ___   |  _  |___ ___  |_|___ ___| |_ 
+|     |  _| .'| . | . |  |   __|  _| . | | | -_|  _|  _|
+|__|__|_| |__,|_  |___|  |__|  |_| |___|_| |___|___|_|  
+              |___|                    |___|            
+
+Arago Project http://arago-project.org am335x-evm /dev/ttyO0
+
+Arago 2016.02 am335x-evm /dev/ttyO0
+
+am335x-evm login: root
+root@am335x-evm:~# ls
+root@am335x-evm:~# ls -a
+.             ..            .ash_history
+root@am335x-evm:~# cd ..
+root@am335x-evm:/home# ls
+root
+root@am335x-evm:/home# cd root
+root@am335x-evm:~# cd .
+root@am335x-evm:~# cd .
+root@am335x-evm:~# shutdown now
+INIT: S�itching to run
+root@am335x-evm:~# Broadcast message from root@am335x-evm (ttyO0) (Fri Feb 26 20:35:24 2016):
+The system is going down to maintenance mode NOW!
+Stopping syslogd/klogd: stopped syslogd (pid 530)
+stopped klogd (pid 533)
+done
+Deconfiguring network interfaces... ifdown: interface usb0 not configured
+done.
+Unmounting remote filesystems...
+
+root@am335x-evm:~# CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CTRL-A Z for help | 115200 8N1 | NOR | Minicom 2.7.1 | VT102 | Offline | ttyUSB0                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CTRL-A Z for help | 115200 8N1 | NOR | Minicom 2.7.1 | VT102 | Offline | ttyUSB0                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+U-Boot SPL 2017.03-00270-g5cf618e (Mar 28 2017 - 17:14:21)                                               
+Trying to boot from UART                                                                                 
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC                                                            
+U-Boot SPL 2017.03-00270-g5cf618e (Mar 28 2017 - 17:14:21)                                               
+Trying to boot from UART                                                                                 
+CxyzModem - CRC mode, 2846(SOH)/0(STX)/0(CAN) packets, 4 retries                                         
+Loaded 364100 bytes                                                                                      
+                                                                                                         
+                                                                                                         
+U-Boot 2016.11-rc1 (Mar 29 2017 - 09:34:17 +0530)                                                        
+                                                                                                         
+I2C:   ready                                                                                             
+DRAM:  512 MiB                                                                                           
+MMC:   OMAP SD/MMC: 0, OMAP SD/MMC: 1                                                                    
+*** Warning - bad CRC, using default environment                                                         
+                                                                                                         
+Net:   <ethaddr> not set. Validating first E-fuse MAC                                                    
+cpsw, usb_ether                                                                                          
+Press SPACE to abort autoboot in 2 seconds                                                               
+=>                                                                                                       
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCC                                     
+                                                                  
+U-Boot SPL 2017.03-00270-g5cf618e (Mar 28 2017 - 17:14:21)        
+                                                                  
+Trying to boot from UART                                          
+                                                                  
+CCxyzModem - CRC mode, 2846(SOH)/0(STX)/0(CAN) packets, 5 retries 
+                                                                  
+Loaded 364100 bytes                                               
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+                                                                  
+U-Boot 2016.11-rc1 (Mar 29 2017 - 09:34:17 +0530)                 
+                                                                  
+                                                                  
+                                                                  
+I2C:   ready                                                      
+                                                                  
+DRAM:  512 MiB
+                                                                  
+MMC:   OMAP SD/MMC: 0, OMAP SD/MMC: 1
+
+*** Warning - bad CRC, using default environment
+
+
+
+Net:   <ethaddr> not set. Validating first E-fuse MAC
+
+cpsw, usb_ether
+
+Press SPACE to abort autoboot in 2 seconds
+
+Card did not respond to voltage select!
+
+Card did not respond to voltage select!
+
+Card did not respond to voltage select!
+
+Card did not respond to voltage select!
+
+Card did not respond to voltage select!
+
+switch to partitions #0, OK
+
+mmc1(part 0) is current device
+
+Scanning mmc 1:1...
+
+switch to partitions #0, OK
+
+mmc1(part 0) is current device
+
+SD/MMC found on device 1
+
+switch to partitions #0, OK
+
+mmc1(part 0) is current device
+
+SD/MMC found on device 1
+
+** File not found boot.scr **
+
+** Unrecognized filesystem type **
+
+** Invalid partition 2 **
+
+## Error: "bootcmd_nand0" not defined
+
+starting USB...
+
+USB0:   Port not available.                                       
+                                                                  
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOU!
+                                                                  
+BOOTP broadcast 1                                                 
+                                                                  
+BOOTP broadcast 2                                                 
+                                                                  
+BOOTP broadcast 3                                                 
+                                                                  
+BOOTP broadcast 4                                                 
+                                                                  
+BOOTP broadcast 5                                                 
+                                                                  
+BOOTP broadcast 6                                                 
+                                                                  
+BOOTP broadcast 7                                                 
+                                                                  
+BOOTP broadcast 8                                                 
+                                                                  
+BOOTP broadcast 9                                                 
+                                                                  
+CCCCC                                                             
+                                                                  
+U-Boot SPL 2017.03-00270-g5cf618e (Mar 28 2017 - 17:14:21)        
+                                                                  
+Trying to boot from UART
+                                                                  
+CCCxyzModem - CRC mode, 2846(SOH)/0(STX)/0(CAN) packets, 6 retries
+
+Loaded 364100 bytes
+
+
+
+
+
+U-Boot 2016.11-rc1 (Mar 29 2017 - 09:34:17 +0530)
+
+
+
+I2C:   ready
+
+DRAM:  512 MiB
+
+MMC:   OMAP SD/MMC: 0, OMAP SD/MMC: 1
+
+*** Warning - bad CRC, using default environment
+
+
+
+Net:   <ethaddr> not set. Validating first E-fuse MAC
+
+cpsw, usb_ether
+
+Press SPACE to abort autoboot in 2 seconds
+
+Card did not respond to voltage select!
+
+Card did not respond to voltage select!
+
+Card did not respond to voltage select!
+
+Card did not respond to voltage select!
+
+Card did not respond to voltage select!
+
+switch to partitions #0, OK
+
+mmc1(part 0) is current device
+
+Scanning mmc 1:1...
+
+switch to partitions #0, OK
+
+mmc1(part 0) is current device
+
+SD/MMC found on device 1
+
+switch to partitions #0, OK
+
+mmc1(part 0) is current device
+
+SD/MMC found on device 1
+
+** File not found boot.scr **
+
+** Unrecognized filesystem type **
+
+** Invalid partition 2 **
+
+## Error: "bootcmd_nand0" not defined                             
+                                                                  
+starting USB...                                                   
+                                                                  
+USB0:   Port not available.                                       
+                                                                  
+cpsw Waiting for PHY auto negotiation to complete......... TIMEOU!
+                                                                  
+BOOTP broadcast 1                                                 
+                                                                  
+BOOTP broadcast 2                                                 
+                                                                  
+BOOTP broadcast 3                                                 
+                                                                  
+BOOTP broadcast 4                                                 
+                                                                  
+BOOTP broadcast 5                                                 
+                                                                  
+BOOTP broadcast 6                                                 
+                                                                  
+BOOTP broadcast 7                                                 
+                                                                  
+CCCCCCC                                                           
+                                                                  
+U-Boot SPL 2017.03-00270-g5cf618e (Mar 28 2017 - 17:14:21)        
+                                                                  
+Trying to boot from UART
+                                                                  
+CxyzModem - CRC mode, 2846(SOH)/0(STX)/0(CAN) packets, 4 retries
+
+Loaded 364100 bytes
+
+
+
+
+
+U-Boot 2016.11-rc1 (Mar 29 2017 - 09:34:17 +0530)
+
+
+
+I2C:   ready
+
+DRAM:  512 MiB
+
+MMC:   OMAP SD/MMC: 0, OMAP SD/MMC: 1
+
+*** Warning - bad CRC, using default environment
+
+
+
+Net:   <ethaddr> not set. Validating first E-fuse MAC
+
+cpsw, usb_ether
+
+Press SPACE to abort autoboot in 2 seconds
+
+=> boot
+
+Card did not respond to voltage select!
+
+Card did not respond to voltage select!
+
+Card did not respond to voltage select!
+
+Card did not respond to voltage select!
+
+Card did not respond to voltage select!
+
+switch to partitions #0, OK
+
+mmc1(part 0) is current device
+
+Scanning mmc 1:1...
+
+switch to partitions #0, OK
+
+mmc1(part 0) is current device
+
+SD/MMC found on device 1
+
+switch to partitions #0, OK
+
+mmc1(part 0) is current device
+
+SD/MMC found on device 1
+
+** File not found boot.scr **
+
+** Unrecognized filesystem type **
+
+** Invalid partition 2 **
+
+## Error: "bootcmd_nand0" not defined
+
+starting USB...
+
+USB0:   Port not available.
+
+cpsw Waiting for P+-----------------------------+.....user interr!
+                  |                             |
+BOOTP broadcast 1 |  Cannot open /dev/ttyUSB0!  |
+                  |                             |
+BOOTP broadcast 2 +-----------------------------+
+
+BOOTP broadcast 3
+
+
+
+Abort
+
+missing environment variable: pxeuuid
+
+Retrieving file: pxelinux.cfg/01-0c-b2-b7-cc-f4-c5
+
+cpsw Waiting for PHY auto negotiation to complete......
+CTRL-A Z for help | 115200 8N1 | NOR | Minicom 2.7.1 | VT102 | Of
+

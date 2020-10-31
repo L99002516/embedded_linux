@@ -1,0 +1,11 @@
+load mmc 0:2  0x82000000 /boot/uImage
+load mmc 0:2  0x88000000 /boot/am335x-boneblack.dtb   
+	56827 bytes read in 20 ms (2.7 MiB/s)
+bootm 0x82000000 - 0x88000000
+setenv bootargs console=ttyO0,115200 root=/dev/mmcblk0p2 rw	
+printenv bootargs                                  
+	## Error: "bootargs" not defined
+	
+mypcip=setenv serverip 192.168.1.2
+bootargs=console=ttyO0,115200 root=/dev/mmcblk0p2 rw
+bootcmd=echo"booting from memory tryying fromr genesis batch. Pls dont embrass me";load mmc 0:2 0x82000000 /boot/uImage;load mmc 0:2 0x88000000 /boot/am335x-boneblack.dtb;bootm 0x82000000 - 0x88000000;

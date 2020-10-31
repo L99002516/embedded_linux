@@ -1,0 +1,9 @@
+steps --- for gcc in bbb
+
+	vi /home/uadmin/.bashrc
+		 at end the of the file 
+		 export PATH=/home/uadmin/Documents/embedded_linux/gcc-linaro-5.5.0-2017.10-x86_64_arm_linux_gnueabi/bin:$PATH
+		 save it and quit.
+	--> source /home/uadmin/.bashrc
+	--> arm and couples of times TAB button
+	--> 
